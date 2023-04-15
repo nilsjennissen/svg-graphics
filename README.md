@@ -45,6 +45,9 @@ If you find any errors or have suggestions for improving this project, please fe
 
 This project was inspired by many other SVG and data visualization resources, including D3.js, SVG Mastery by Brian Suda, and Python Data Science Handbook by Jake VanderPlas. I also want to thank the SVG and Python communities for their support and contributions to the SVG and Python ecosystems.
 
+
+### Ressources
+https://www.youtube.com/watch?v=r8hqLh_HE08 
 ### License
 
 This project is licensed under the MIT License. See the LICENSE.md file for details.
